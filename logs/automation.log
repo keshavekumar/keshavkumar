@@ -1,0 +1,20 @@
+2025-04-02 13:50:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\ParaBankproject\testngMaster.xml
+
+2025-04-02 13:50:52 INFO  TC_01Register:42 - Setup completed, browser launched and navigated to https://parabank.parasoft.com/parabank/register.htm
+2025-04-02 13:50:52 INFO  TC_01Register:16 - ** Staring the case registration  ***
+2025-04-02 13:50:52 INFO  TC_01Register:17 - ** Staring the home page ***
+2025-04-02 13:50:53 INFO  TC_01Register:21 - ** Staring the registration page ***
+2025-04-02 13:50:54 INFO  TC_01Register:35 - ** validation of  registration page ***
+2025-04-02 13:50:54 INFO  TC_01Register:49 - ** end of the  registration page ***
+2025-04-02 13:50:54 INFO  TC_01Register:50 - Browser closed and WebDriver quit.
+2025-04-02 13:53:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\ParaBankproject\testngMaster.xml
+
+2025-04-02 13:53:10 INFO  TC_01Register:42 - Setup completed, browser launched and navigated to https://parabank.parasoft.com/parabank/register.htm
+2025-04-02 13:53:10 INFO  TC_01Register:16 - ** Staring the case registration  ***
+2025-04-02 13:53:10 INFO  TC_01Register:17 - ** Staring the home page ***
+2025-04-02 13:53:11 INFO  TC_01Register:21 - ** Staring the registration page ***
+2025-04-02 13:53:13 INFO  TC_01Register:35 - ** validation of  registration page ***
+2025-04-02 13:53:13 INFO  TC_01Register:49 - ** end of the  registration page ***
+2025-04-02 13:53:13 INFO  TC_01Register:50 - Browser closed and WebDriver quit.
