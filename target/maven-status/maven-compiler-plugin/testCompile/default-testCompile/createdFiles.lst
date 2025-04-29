@@ -1,8 +1,0 @@
-testBase\CombaseClass.class
-testCases\TC_01Register.class
-pageObjects\ComregisterPage.class
-pageObjects\package-info.class
-pageObjects\CombasePage.class
-testBase\package-info.class
-testCases\package-info.class
-pageObjects\ComhomePage.class
